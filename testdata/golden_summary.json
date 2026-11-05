@@ -1,0 +1,19 @@
+{
+  "processed_events": 13,
+  "positions": [
+    {
+      "symbol": "AAPL",
+      "quantity": "-7.000",
+      "average_cost": "94.66",
+      "realized_pnl": "-17.72",
+      "last_mark": "100.00",
+      "unrealized_pnl": "-37.38",
+      "notional": "700.00"
+    }
+  ],
+  "total_realized_pnl": "-17.72",
+  "total_unrealized_pnl": "-37.38",
+  "total_pnl": "-55.10",
+  "gross_notional": "700.00",
+  "alerts_emitted": 8
+}

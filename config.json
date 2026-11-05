@@ -1,0 +1,16 @@
+{
+  "bounds": {
+    "max_price": "1000000.00",
+    "max_abs_quantity": "10000000.000"
+  },
+  "limits": {
+    "max_abs_position": {
+      "warn": "8.000",
+      "breach": "12.000"
+    },
+    "max_gross_notional": {
+      "warn": "1800.00",
+      "breach": "2500.00"
+    }
+  }
+}
